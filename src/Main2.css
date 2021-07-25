@@ -36,3 +36,8 @@ li:nth-child(even) {
 article p:first-child {
     color:orange;
 }
+
+a:link {
+    font-style: oblique;
+    color:rgb(94, 59, 2);
+}
