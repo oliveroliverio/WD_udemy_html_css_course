@@ -51,10 +51,6 @@ a:hover {
     font-weight: bold;
 }
 
-.navbar {
-    width: 100%;
-    font-size: 20px;
-}
 
 .main-header {
     font:large;
@@ -63,9 +59,14 @@ a:hover {
     background-color:rgb(122, 225, 173);
     padding: 20px 40px;
     margin-bottom: 60px;
-
-
 }
+
+#nav {
+    display: inline;
+    padding-right:50px;
+    font-size:20px
+}
+
 
 ul,ol {
     margin-left: 50px;

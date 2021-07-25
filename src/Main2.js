@@ -6,7 +6,7 @@ function Main2() {
         <div>
             <header className="main-header">
                 <h1>The Shoe Magazine</h1>
-                    <nav className="navbar">
+                    <nav>
                         <a href="asdf.com">Vans</a>
                         <a href="asdf.com">DC</a>
                         <a href="asdf.com">Converse</a>
