@@ -29,3 +29,7 @@ li {
 li:first-child {
     font-weight: bold
 }
+
+li:last-child {
+    font-style: italic;
+}
