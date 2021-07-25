@@ -1,4 +1,4 @@
-
+import "./Main2.css"
 function Main2() {
     return (
         <article>
