@@ -6,11 +6,6 @@ h2 {
     font-style: italic;
 }
 
-p {
-    font-size: 22px;
-    font-family: fantasy;
-    line-height: 1.5;
-}
 
 h3 {
     text-align: center;
@@ -36,4 +31,8 @@ li:last-child {
 
 li:nth-child(even) {
     color:red
+}
+
+article p:first-child {
+    color:orange;
 }

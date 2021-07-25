@@ -7,13 +7,17 @@ function Main2() {
             <hr></hr>
 
             <h1>I'm just going to add this for the sake of exercise</h1> 
-            <ul className="class1">
+            <ul>
                 <li>Some stuff</li>
                 <li>Some more stuff</li>
                 <li>And some things</li>
                 <li>More things</li>
                 <li>whatrever</li>
             </ul>
+
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic, sit unde quia ea maiores ab magnam nihil earum laborum consequuntur perferendis dolorum placeat commodi id? Voluptates dicta commodi necessitatibus temporibus?</p>
+            
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem ipsa, corrupti iste explicabo tempora iusto illum et blanditiis nostrum maxime, atque sit incidunt nihil quam doloribus aliquid ad cum harum.</p>
             <hr></hr>
             <p><strong>$65.00</strong></p>
             <p>Free shipping</p>
