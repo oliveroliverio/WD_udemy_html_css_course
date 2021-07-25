@@ -66,3 +66,7 @@ a:hover {
 
 
 }
+
+ul,ol {
+    margin-left: 50px;
+}
