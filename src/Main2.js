@@ -1,10 +1,12 @@
+import React from "react"
+import reactDom from "react-dom"
 import "./Main2.css"
 function Main2() {
     return (
-        <body>
+        <div>
             <header className="main-header"></header>
                 <h1>The Shoe Magazine</h1>
-                    <nav>
+                    <nav className="navbar">
                         <a href="asdf.com">Vans</a>
                         <a href="asdf.com">DC</a>
                         <a href="asdf.com">Converse</a>
@@ -45,7 +47,7 @@ function Main2() {
                 <button>Add to cart</button>
     
             </article>
-        </body>
+         </div>
     )
 }
 
