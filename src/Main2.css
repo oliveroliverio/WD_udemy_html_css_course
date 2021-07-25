@@ -20,3 +20,12 @@ li {
     font-family: cursive;
     font-size: 20px;
 }
+
+.class1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+li:first-child {
+    font-weight: bold
+}
