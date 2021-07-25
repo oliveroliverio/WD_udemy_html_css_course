@@ -1,3 +1,4 @@
+import './Test2.css'
 function Test2() {
     return (
       <div class="navbar-wrapper">
