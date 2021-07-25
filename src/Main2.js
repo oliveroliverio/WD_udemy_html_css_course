@@ -4,7 +4,7 @@ import "./Main2.css"
 function Main2() {
     return (
         <div>
-            <header className="main-header"></header>
+            <header className="main-header">
                 <h1>The Shoe Magazine</h1>
                     <nav className="navbar">
                         <a href="asdf.com">Vans</a>
@@ -12,7 +12,7 @@ function Main2() {
                         <a href="asdf.com">Converse</a>
                         <a href="asdf.com">Reebok</a>
                     </nav>
-        
+            </header>
             <article>
                 <h2>Converse Chuck Taylor All Star Low Top</h2>
                 <img src="https://i.ibb.co/Jr7Wh1d/challenges.jpg" alt="Chuck Taylor All Star Shoe" height="250" width="250" />
