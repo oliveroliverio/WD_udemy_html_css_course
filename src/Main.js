@@ -9,6 +9,7 @@ function Main() {
         <body>
             <h1>Hi I'm Oliver</h1>
             <p>this is my first webpage</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat perferendis aperiam voluptatum deleniti, a, nobis ipsa cumque dolor voluptatem eligendi facere nihil molestias numquam. Sit repudiandae voluptatum recusandae a doloribus.</p>
         </body>
         </html>
     )
