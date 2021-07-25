@@ -53,10 +53,14 @@ a:hover {
 
 .navbar {
     width: 100%;
-    font-size: large;
+    font-size: 20px;
 }
 
 .main-header {
     font:large;
     color:purple;
+    text-transform: uppercase;
+    background-color:rgb(122, 225, 173);
+
+
 }
